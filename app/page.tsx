@@ -104,7 +104,7 @@ export default function BusinessLandingPage() {
                 <a
                   href="#services"
                   className="rounded-2xl border border-slate-300 px-6 py-3 text-sm font-semibold text-slate-700 transition hover:bg-slate-50"
-                >
+                > 
                   See Services
                 </a>
               </div>
@@ -138,16 +138,16 @@ export default function BusinessLandingPage() {
                   </div>
                   <div className="space-y-4">
                     <div className="rounded-2xl bg-slate-50 p-4">
-                      <p className="text-sm text-slate-500">Qualified leads</p>
+                      <p className="text-sm text-slate-500">Qualified account</p>
                       <p className="mt-1 text-3xl font-bold">1,284</p>
                     </div>
                     <div className="grid grid-cols-2 gap-4">
                       <div className="rounded-2xl bg-slate-50 p-4">
-                        <p className="text-sm text-slate-500">Conversion rate</p>
+                        <p className="text-sm text-slate-500">Success rate</p>
                         <p className="mt-1 text-2xl font-bold">6.8%</p>
                       </div>
                       <div className="rounded-2xl bg-slate-50 p-4">
-                        <p className="text-sm text-slate-500">Cost per lead</p>
+                        <p className="text-sm text-slate-500">Repetition per account</p>
                         <p className="mt-1 text-2xl font-bold">$14</p>
                       </div>
                     </div>
