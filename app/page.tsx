@@ -64,7 +64,7 @@ export default function BusinessLandingPage() {
       <header className="border-b border-slate-200 bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
           <div>
-            <p className="text-xl font-bold tracking-tight">BrightEdge</p>
+            <p className="text-xl font-bold tracking-tight">Free Robux</p>
           </div>
           <nav className="hidden gap-8 text-sm text-slate-600 md:flex">
             <a href="#services" className="hover:text-slate-900">Services</a>
@@ -303,7 +303,7 @@ export default function BusinessLandingPage() {
 
       <footer className="border-t border-slate-200 py-8">
         <div className="mx-auto flex max-w-7xl flex-col gap-4 px-6 text-sm text-slate-500 md:flex-row md:items-center md:justify-between lg:px-8">
-          <p>© 2026 BrightEdge. All rights reserved.</p>
+          <p>© 2026 FreeRobux. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-slate-900">Privacy</a>
             <a href="#" className="hover:text-slate-900">Terms</a>
@@ -314,3 +314,4 @@ export default function BusinessLandingPage() {
     </div>
   );
 }
+
